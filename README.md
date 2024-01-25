@@ -1,6 +1,6 @@
-- 👋 Hi, my name is Sergey I’m a developer
+- 👋 Hi, my name is Serhii I’m a developer
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning JS/React/CSS
+- 🌱 HTML/CSS/JS/React/Next
 
 <!---
 turinskiy/turinskiy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
